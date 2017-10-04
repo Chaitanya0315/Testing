@@ -130,4 +130,4 @@ At the time of this deliverable, there are no behavioral or state diagrams that 
 
 ![Login GUI Scenarios](snapshots/Login_GUI_Scenarios.png)
 
-
+<img src="snapshots/Login_GUI_Scenarios.png" width=130%/>
