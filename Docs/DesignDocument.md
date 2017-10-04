@@ -43,8 +43,8 @@ This section enumerates all the assumptions that will impact the word scramble a
 |11. |The application will allow a player to save word scrambles with same solution but have different clues.|
 |12. |The development process for the application will follow the waterfall model only moving into the next phase once the previous one is finalized.|
 |13. | The application will use a flat text based approach to take user input for the original phrase, scrambled phrase, solution phrase and the clue.|
-|14. | *ARE WE GOING TO PRE_PROCESS TEH WORD SCRAMBLE AND CLUE IN ANY WAY FOR EASE OF STORAGE OR FOR EASE OF FORMATTING*|
-|15. |*gradle dependency Bootstrap for Android any ASSUMPTION*|
+|14. | |
+|15. ||
         
 
 
