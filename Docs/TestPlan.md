@@ -33,7 +33,7 @@ The process of creating test scenarios will be a team effort as each member will
 
 ### 1.2 Test Selection
 
-*Here you should discuss how you are going to select your test cases, that is, which black-box and/or white-box techniques you will use. If you plan to use different techniques at different testing levels (e.g., unit and system), you should clarify that.*
+<!--*Here you should discuss how you are going to select your test cases, that is, which black-box and/or white-box techniques you will use. If you plan to use different techniques at different testing levels (e.g., unit and system), you should clarify that.*-->
 
 Primarily, test cases will be extracted from the use cases and junit/esspresso tests will be utilized in order to make sure that chunks of code are generating the desired output. The test will be selected in a way that they cover wide spectrum of component functionality. This way, if an error is identified, team will be able to focus on that particular error and precise chunk of code causing this error to occur.
 
