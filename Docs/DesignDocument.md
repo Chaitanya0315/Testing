@@ -82,15 +82,34 @@ This section of the design document describes the architectural design for the W
 
 ### 2.1 Component Diagram
 
-*This section should provide and describe a diagram that shows the various components and how they are connected. This diagram shows the logical/functional components of the system, where each component represents a cluster of related functionality. In the case of simple systems, where there is a single component, this diagram may be unnecessary; in these cases, simply state so and concisely state why.*
+<!-- *This section should provide and describe a diagram that shows the various components and how they are connected. This diagram shows the logical/functional components of the system, where each component represents a cluster of related functionality. In the case of simple systems, where there is a single component, this diagram may be unnecessary; in these cases, simply state so and concisely state why.* -->
+
+The GroceryListManager provides an interface for manipulating the GroceryList.
+
+The GroceryList provides an interface for the selection of items, as well as performing other operations on the item component.
+
+The GroceryList requires persistence.
+
+The Item component provides an interface for the database.
 
 ![Component Design](snapshots/CompDesign.png)
 
+| **No.** | **Component** | **Description** |
+| :---:| :---: | :--- |
+|1. | External Web Service| Provides a way to add new players, report solved games and provide player and game statistics.|
+|2. | User | Allows to create a new player, create a new game, play an existing game and fetch player statistics.|
+|3. | Player Statistics| Helps a particular player to view his/her personal statistics.|
+|4. | Play Event| Allows an existing user to play a game that already exists in the system.|
+|5. | Game| Provides a way to fetch word scramble statistics and to add a new game.|
+|6. | Scramble Statistics| Helps a user view statistics pertaining to a particular word scramble.|
+
 ### 2.2 Deployment Diagram
 
-*This section should describe how the different components will be deployed on actual hardware devices. Similar to the previous subsection, this diagram may be unnecessary for simple systems; in these cases, simply state so and concisely state why.*
+<!--*This section should describe how the different components will be deployed on actual hardware devices. Similar to the previous subsection, this diagram may be unnecessary for simple systems; in these cases, simply state so and concisely state why.* -->
 
 ![Deployment Design](snapshots/DeployDesign.png)
+
+The Word Scramble game is very simple application as most of the communication takes place between the android device and an external web service. The application itself will reside inside an android deivce/phone while the external web service utility exists separately. 
 
 ## 3 Low-Level Design
 
