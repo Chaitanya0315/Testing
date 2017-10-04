@@ -84,14 +84,6 @@ This section of the design document describes the architectural design for the W
 
 <!-- *This section should provide and describe a diagram that shows the various components and how they are connected. This diagram shows the logical/functional components of the system, where each component represents a cluster of related functionality. In the case of simple systems, where there is a single component, this diagram may be unnecessary; in these cases, simply state so and concisely state why.* -->
 
-The GroceryListManager provides an interface for manipulating the GroceryList.
-
-The GroceryList provides an interface for the selection of items, as well as performing other operations on the item component.
-
-The GroceryList requires persistence.
-
-The Item component provides an interface for the database.
-
 ![Component Design](snapshots/CompDesign.png)
 
 | **No.** | **Component** | **Description** |
