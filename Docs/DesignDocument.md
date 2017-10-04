@@ -135,7 +135,7 @@ This section of the design document highlights the initial user interface design
 
 ![Login GUI Scenarios](snapshots/Login_GUI_Scenarios.png)
 
-![Login GUI Scenarios](<img src="snapshots/Login_GUI_Scenario2.png" width=20%/>)
+![Login GUI Scenarios 2](<img src="snapshots/Login_GUI_Scenario2.png" width=30%/>)
 
 
 
