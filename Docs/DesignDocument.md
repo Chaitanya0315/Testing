@@ -144,18 +144,9 @@ This section of the design document highlights the initial user interface design
 
 ![New Player Player GUI Scenarios](snapshots/PlayerProfile_GUI_Scenario_v1.png)
 
-The moment Word Scramble game is launched in the android phone/emulator, first screen that appears is one on the left. Snapshot on the left shows the User GUI when login/player creation input is not provided in any of the text boxes.
+#### 4.1.4 Create Game GUI Scenarios
 
-The snapshot in the center shows the scenario where the username is valid and existing in the system. At this stage, the user can just click onto the 'Login' button and enter.
+![Create Game GUI Scenarios](snapshots/CreateGame_GUI_Scenario_v1.png)
 
-Snapshot shown on the right side shows the scenario when the user is creating a new player but types in a username that already exists in the system. When the user clicks on the 'Verify' button, the application prompts the user with an error message saying that the username already exists. Along with that, the application also suggests an alternate username which is available. At this point, the user can either try out a different username or go with the suggested one and click 'Create New Player' to enter.
 
-Final snapshot shows the scenario when the user has entered an incorrect username. An error message will be shown to the user, letting them know that the username is invalid.
 
-![Login GUI Scenarios](snapshots/PlayEvent_GUI_Scenarios.png)
-
-After the login activity, if a player is successfully logged in, he/she will have a choice to either create a new word scramble game or choose to solve an existing game. To facilitate the user with this choice, the GUI has 2 buttons at the top of the activity. Along with the option to choose what to do next, player can view their personal statistics (scrambles solved, scrambles created, etc) and also will have a choice to view the scrambles they solved so far and the ones that are in progress. This shown by 2 tabs and scroll down menus under each tab.
-
-The center activity is a scenario when a player chooses to solve an existing scramble. The player will be able to view the list of unsolved scrambles with the ones still in-progress at the top of the list.
-
-Activity on the right comes into play when a player has clicked on to a game he/she wants to play. Top pane show the scrambled word/phrase and bottom pane is for the player to right in a probable solution to the scramble. After this, a player can 'submit' the result to check if its correct/incorrect or save their progress for this game. In case if the solution entered is correct the tick mark will turn green and the application returns to the center activity, removing the Game ID for the solved scramble from the list. On the other hand, if the solution is incorrect, the cross at the bottom turns red and the text under the 'Enter a solution below' will be empty again for the player to enter an alternate solution.
