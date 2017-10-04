@@ -131,6 +131,7 @@ At the time of this deliverable, there are no behavioral or state diagrams that 
 
 #### 4.1.1 Login GUI Scenarios
 
-![Login GUI Scenarios](snapshots/Login_GUI_Scenarios.png)
+![Login GUI Scenarios](snapshots/Logic_GUI_Scenarios.jpg)
+
 
 
