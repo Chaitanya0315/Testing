@@ -103,11 +103,17 @@ The Word Scramble game is very simple application as most of the communication t
 
 ## 3 Low-Level Design
 
-*Describe the low-level design for each of the system components identified in the previous section. For each component, you should provide details in the following UML diagrams to show its internal structure.*
+<!--*Describe the low-level design for each of the system components identified in the previous section. For each component, you should provide details in the following UML diagrams to show its internal structure.*-->
+
+This section covers the design of the system components in form of a UML diagram.
 
 ### 3.1 Class Diagram
 
-*In the case of an OO design, the internal structure of a software component would typically be expressed as a UML class diagram that represents the static class structure for the component and their relationships.*
+<!--*In the case of an OO design, the internal structure of a software component would typically be expressed as a UML class diagram that represents the static class structure for the component and their relationships.*-->
+
+![Team Design](snapshots/team_design.png)
+
+
 
 ### 3.2 Other Diagrams
 
