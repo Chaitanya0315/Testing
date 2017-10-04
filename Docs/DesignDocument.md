@@ -135,7 +135,7 @@ This section of the design document highlights the initial user interface design
 
 ![Login GUI Scenarios](snapshots/Login_GUI_Scenarios.png)
 
-(<img src="snapshots/Login_GUI_Scenario2.png" width=29%/>
+<img src="snapshots/Login_GUI_Scenario2.png" width=29%/>
 
 
 
@@ -144,6 +144,8 @@ The moment Word Scramble game is launched in the android phone/emulator, first s
 The snapshot in the center shows the scenario where the username is valid and existing in the system. At this stage, the user can just click onto the 'Login' button and enter.
 
 Snapshot shown on the right side shows the scenario when the user is creating a new player but types in a username that already exists in the system. When the user clicks on the 'Verify' button, the application prompts the user with an error message saying that the username already exists. Along with that, the application also suggests an alternate username which is available. At this point, the user can either try out a different username or go with the suggested one and click 'Create New Player' to enter.
+
+Final snapshot shows the scenario when the user has entered an incorrect username. An error message will be shown to the user, letting them know that the username is invalid.
 
 ![Login GUI Scenarios](snapshots/PlayEvent_GUI_Scenarios.png)
 
