@@ -141,4 +141,4 @@ The snapshot in the center shows the scenario where the username is valid and ex
 
 Snapshot shown on the right side shows the scenario when the user is creating a new player but types in a username that already exists in the system. When the user clicks on the 'Verify' button, the application prompts the user with an error message saying that the username already exists. Along with that, the applicaiton also suggests an alternate username which is available. At this point, the user can either try out a different username or go with the suggested one and click 'Create New Player' to enter.
 
-
+![Login GUI Scenarios](snapshots/PlayEvent_GUI_Scenarios.png)
