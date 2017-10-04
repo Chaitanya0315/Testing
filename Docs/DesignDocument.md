@@ -135,6 +135,10 @@ This section of the design document highlights the initial user interface design
 
 ![Login GUI Scenarios](snapshots/Login_GUI_Scenarios.png)
 
+![Login GUI Scenarios](<img src="snapshots/Login_GUI_Scenario2.png" width=80%/>)
+
+
+
 The moment Word Scramble game is launched in the android phone/emulator, first screen that appears is one on the left. Snapshot on the left shows the User GUI when login/player creation input is not provided in any of the text boxes.
 
 The snapshot in the center shows the scenario where the username is valid and existing in the system. At this stage, the user can just click onto the 'Login' button and enter.
