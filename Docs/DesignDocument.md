@@ -82,7 +82,7 @@ This section of the design document describes the architectural design for the W
 
 <!-- *This section should provide and describe a diagram that shows the various components and how they are connected. This diagram shows the logical/functional components of the system, where each component represents a cluster of related functionality. In the case of simple systems, where there is a single component, this diagram may be unnecessary; in these cases, simply state so and concisely state why.* -->
 
-![Component Design](<img src="snapshots/CompDesign.png" width=120%/>)
+![Component Design](<img src="snapshots/CompDesign.png" width=110%/>)
 
 
 
@@ -133,11 +133,7 @@ This section of the design document highlights the initial user interface design
 
 #### 4.1.1 Login GUI Scenarios
 
-![Login GUI Scenarios](snapshots/Login_GUI_Scenarios.png)
-
-<img src="snapshots/Login_GUI_Scenario2.png" width=29%/>
-
-
+![Login GUI Scenarios](snapshots/Login_GUI_Scenario_v1.png)
 
 The moment Word Scramble game is launched in the android phone/emulator, first screen that appears is one on the left. Snapshot on the left shows the User GUI when login/player creation input is not provided in any of the text boxes.
 
