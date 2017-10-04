@@ -82,10 +82,10 @@ This section of the design document describes the architectural design for the W
 
 <!-- *This section should provide and describe a diagram that shows the various components and how they are connected. This diagram shows the logical/functional components of the system, where each component represents a cluster of related functionality. In the case of simple systems, where there is a single component, this diagram may be unnecessary; in these cases, simply state so and concisely state why.* -->
 
-![Component Design](snapshots/CompDesign.png)
+![Component Design](<img src="snapshots/CompDesign.png" width=120%/>)
 
 
-<img src="snapshots/CompDesign.png" width=130%/>
+
 
 | **No.** | **Component** | **Description** |
 | :---:| :---: | :--- |
