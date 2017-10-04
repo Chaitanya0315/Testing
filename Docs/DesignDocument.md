@@ -111,9 +111,9 @@ This section covers the design of the system components in form of a UML diagram
 
 <!--*In the case of an OO design, the internal structure of a software component would typically be expressed as a UML class diagram that represents the static class structure for the component and their relationships.*-->
 
-![Team Design](snapshots/team_design.png)
+![Team Design](snapshots/design_team.png)
 
-
+The final UML class diagram is shown above, which is an enhanced/updated version of the individual UML class diagram created by one of the team members.
 
 ### 3.2 Other Diagrams
 
