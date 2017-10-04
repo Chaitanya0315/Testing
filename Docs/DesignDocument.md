@@ -129,9 +129,16 @@ At the time of this deliverable, there are no behavioral or state diagrams that 
 
 ### 4.1 Initial User Interface Design
 
+This section of the design document highlights the initial user interface design for the Word Scramble application. These are prelimnary snapshots and interfaces might change once the final application is implemented.
+
 #### 4.1.1 Login GUI Scenarios
 
 ![Login GUI Scenarios](snapshots/Login_GUI_Scenarios.png)
 
+The moment Word Scramble game is launched in the android phone/emulator, first screen that appears is one on the left. Snapshot on the left shows the User GUI when login/player creation input is not provided in any of the text boxes.
+
+The snapshot in the center shows the scenario where the username is valid and existing in the system. At this stage the user can just click onto the 'Login' button and enter.
+
+Snapshot shown on the right side shows the scenario when the user is creating a new player but types in a username that already exists in the system. When the user clicks on the 'Verify' button, the application prompts the user with an error message saying that the username already exists. Along with that, the applicaiton also suggests an alternate username which is available. At this point, the user can either try out a different username or go with the suggested one and click 'Create New Player' to enter.
 
 
