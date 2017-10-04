@@ -117,9 +117,13 @@ The final UML class diagram is shown above, which is an enhanced/updated version
 
 ### 3.2 Other Diagrams
 
-*<u>Optionally</u>, you can decide to describe some dynamic aspects of your system using one or more behavioral diagrams, such as sequence and state diagrams.*
+<!--*<u>Optionally</u>, you can decide to describe some dynamic aspects of your system using one or more behavioral diagrams, such as sequence and state diagrams.*-->
+
+At the time of this deliverable, there are no behavioral or state diagrams that show dynamic aspects of the system. These diagrams might be added to the design document if there is such a requirement during design progression.
 
 ## 4 User Interface Design
-*For GUI-based systems, this section should provide the specific format/layout of the user interface of the system (e.g., in the form of graphical mockups).*
+<!--*For GUI-based systems, this section should provide the specific format/layout of the user interface of the system (e.g., in the form of graphical mockups).*-->
+
+
 
 
