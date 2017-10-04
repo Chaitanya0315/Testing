@@ -84,6 +84,9 @@ This section of the design document describes the architectural design for the W
 
 ![Component Design](snapshots/CompDesign.png)
 
+
+<img src="snapshots/CompDesign.png" width=130%/>
+
 | **No.** | **Component** | **Description** |
 | :---:| :---: | :--- |
 |1. | External Web Service| Provides a way to add new players, report solved games and provide player and game statistics.|
@@ -130,4 +133,4 @@ At the time of this deliverable, there are no behavioral or state diagrams that 
 
 ![Login GUI Scenarios](snapshots/Login_GUI_Scenarios.png)
 
-<img src="snapshots/Login_GUI_Scenarios.png" width=130%/>
+
