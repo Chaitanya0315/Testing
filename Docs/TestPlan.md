@@ -58,4 +58,8 @@ Testing technologies that the team intends to use while developing the word scra
 
 ## 2 Test Cases
 
-*This section should be the core of this document. You should provide a table of test cases, one per row. For each test case, the table should provide its purpose, the steps necessary to perform the test, the expected result, the actual result (to be filled later), pass/fail information (to be filled later), and any additional information you think is relevant.*
+<!--*This section should be the core of this document. You should provide a table of test cases, one per row. For each test case, the table should provide its purpose, the steps necessary to perform the test, the expected result, the actual result (to be filled later), pass/fail information (to be filled later), and any additional information you think is relevant.*-->
+
+| **Test Case ID** | **Purpose** | **Steps** | **Expected Result** | **Actual Result** | **Pass/Fail** |   **Description** |
+| --- | --- | --- | --- | --- | --- | --- |
+
