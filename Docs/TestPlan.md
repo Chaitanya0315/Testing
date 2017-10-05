@@ -39,15 +39,22 @@ Primarily, test cases will be extracted from the use cases and junit/esspresso t
 
 ### 1.3 Adequacy Criterion
 
-*Define how you are going to assess the quality of your test cases. Typically, this involves some form of functional or structural coverage. If you plan to use different techniques at different testing levels (e.g., unit and system), you should clarify that.*
+<!--*Define how you are going to assess the quality of your test cases. Typically, this involves some form of functional or structural coverage. If you plan to use different techniques at different testing levels (e.g., unit and system), you should clarify that.*-->
+
+To check if the test cases created by the team are adequate, the team will try to make sure that these test cases address major chunk of all the functionality of the code, i.e. at leasat 80% functionality. Checking adequacy this way will help the team have a better understanding of the code and also help minimize most of the errors. This will also help the team to determine that, is the application being developed in the correct manner (testing for verification) and also that, is the product being developed, correct or not (testing for validation).
+
 
 ### 1.4 Bug Tracking
 
-*Describe how bugs and enhancement requests will be tracked.*
+<!--*Describe how bugs and enhancement requests will be tracked.*-->
+
+In order to track bugs, code changes and progress during the development phase, team has decided to use Bugzilla. It is an open-source, effective "Bug-Tracking System" that will allow the team to keep track of outstanding bugs pertaining to the word scramble application. Team has chosen Bugzilla due to its ease of usage, however, if the team feels that another bug tracking tool is more appropriate, this document will be updated subsequently.
 
 ### 1.5 Technology
 
-*Describe any testing technology you intend to use or build (e.g., JUnit, Selenium).*
+<!--*Describe any testing technology you intend to use or build (e.g., JUnit, Selenium).*-->
+
+Testing technologies that the team intends to use while developing the word scramble application are JUnit and Espresso. Team feels more accustomed with this testing frame work of JUnit and also the fact that it is precisely designed to be used with Java is an added factor. For automated UI tests the Espresso UI test framework will utilized in Android Studio. During the development process if the team feels that another testing tool is more appropriate, this document will be updated accordingly.  
 
 ## 2 Test Cases
 
