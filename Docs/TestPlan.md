@@ -62,4 +62,12 @@ Testing technologies that the team intends to use while developing the word scra
 
 | **Test Case ID** | **Purpose** | **Steps** | **Expected Result** | **Actual Result** | **Pass/Fail** |   **Description** |
 | --- | --- | --- | --- | --- | --- | --- |
-
+| 1. | Create New Player | Enter user Fname & Lname, desired Username, emailid | Verify unique user id is generated with appropriate Success message | | | Test the application generates unique user id |
+| 2. | Player Login | Enter unique user id | Verify succesfull login into application | | | Test a player is able to login into application successfully |
+| 3. | Create new Scramble | Enter unscrambled phrase and clue | Verify new word scramble is created | | | Test a new word scramble is created with a unique scramble ID and appropraite success alert message is displayed |
+| 4. | Solve Word scramble | Enter the solution to a word scramble and submit | Verify Word Scramble solved alert is received | | | Test appropriate alert is displayed with the scramble ID when a Word Scramble is solved |
+| 5. | Create New Player | Enter user Fname & Lname, desired Username, emailid | Verify unique user id is generated with appropriate Success message | | | Test the application generates unique user id |
+| 6. | Create New Player | Enter user Fname & Lname, desired Username, emailid | Verify unique user id is generated with appropriate Success message | | | Test the application generates unique user id |
+| 7. | Create New Player | Enter user Fname & Lname, desired Username, emailid | Verify unique user id is generated with appropriate Success message | | | Test the application generates unique user id |
+| 8. | Create New Player | Enter user Fname & Lname, desired Username, emailid | Verify unique user id is generated with appropriate Success message | | | Test the application generates unique user id |
+| 9. | Create New Player | Enter user Fname & Lname, desired Username, emailid | Verify unique user id is generated with appropriate Success message | | | Test the application generates unique user id |
