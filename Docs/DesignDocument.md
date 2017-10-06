@@ -150,7 +150,7 @@ This section of the design document highlights the initial user interface design
 
 #### 4.1.5 Play Game GUI Scenarios
 
-![Play Game GUI Scenarios](snapshots/PlayEvent_GUI_Scenarios_v1.png)
+![Play Game GUI Scenarios](images/PlayEvent_GUI_Scenarios_v1.png)
 
 #### 4.1.6 Play Game Outcome GUI Scenarios
 
