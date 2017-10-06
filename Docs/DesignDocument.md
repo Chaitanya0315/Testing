@@ -41,8 +41,7 @@ This section enumerates all the assumptions that will impact the word scramble a
 |9. |The game will be able to accept infinite number of word scrambles associated with a particular player. |
 |10. |A valid word scramble will be the one where each alphabet must be replaced at its position. None of the letters in the phrase should be left unscrambled.|
 |11. |The application will allow a player to save word scrambles with same solution but have different clues.|
-|12. |The development process for the application will follow the waterfall model only moving into the next phase once the previous one is finalized.|
-|13. | The application will use a flat text based approach to take user input for the original phrase, solution phrase and the clue.| 
+|12. | The application will use a flat text based approach to take user input for the original phrase, solution phrase and the clue.| 
 
 
 
