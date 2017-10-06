@@ -47,7 +47,7 @@ The purpose of this group project is to create an android application that will 
 
 **Software Developer**
 
-Taks of the Sofware Developer will be to utilize debugging and problem solving approach in order for developing elemental data structures and working to realize all the use case and design considerations. This team member will contribute to continuously imrove software development strategies and would also coordinate any communication pertaining to the external web service (EWS).
+Tasks of the Software Developer will be to utilize debugging and problem-solving approach in order for developing elemental data structures and working to realize all the use case and design considerations. This team member will contribute to continuously improve software development strategies and would also coordinate any communication pertaining to the external web service (EWS).
 
 **Application UI Developer**
  
@@ -55,7 +55,7 @@ This assignment would require the team member to focus primarily on creating the
 
 **Requirements and Documentation Engineer**
  
-Team member in this role will be responsible for maintaining the comprehensive architecture and make sure that the application deisgn attains requirements. For dosumentation purposes, this team member will be responsible for taking information from rest fo the team in order to generate/maintain all the documentation/deliverables pertaining to the project. Person in this role will also keep a track of all the design/choices team takes as the project progress through its various stages.
+Team member in this role will be responsible for maintaining the comprehensive architecture and make sure that the application design attains requirements. For documentation purposes, this team member will be responsible for taking information from rest of the team in order to generate/maintain all the documentation/deliverables pertaining to the project. Person in this role will also keep a track of all the design/choices team takes as the project progress through its various stages.
  
 **Software Tester** 
 
