@@ -27,6 +27,12 @@ The purpose of this group project is to create an android application that will 
 - *Entrance criteria (inputs needed for the activity)*
 - *Exit criteria (outputs produced by the activity and how you know it has been completed satisfactorily)*-->
 
+This section illustrates the various activities, team 47 intends to perform throughout the project. These activities are described in terms of the Rational Unified Process (RUP), highlighting all 4 phases that are inception, elaboration, construction, and transition. As per the requirements, each activity will have an entrance and an exit criteria. Each document and component pertaining to software development process will have various review cycles, resulting in more thorough implementaion.
+
+
+
+
+
 ## 3 Team
 
 <!--*Describe the team and their roles (there may be more roles than there are team members)*-->
@@ -53,7 +59,7 @@ Tasks of the Software Developer will be to utilize debugging and problem-solving
  
 This assignment would require the team member to focus primarily on creating the human computer interaction elements of the word scramble application. In order to accomplish the user experience side of this application, UI developer will help the team create GUI activities and will assist the software developer to make sure that these user interaction elements are synchronized with all their corresponding classes/methods.
 
-**Requirements and Documentation Engineer**
+**Documentation Manager**
  
 Team member in this role will be responsible for maintaining the comprehensive architecture and make sure that the application design attains requirements. For documentation purposes, this team member will be responsible for taking information from rest of the team in order to generate/maintain all the documentation/deliverables pertaining to the project. Person in this role will also keep a track of all the design/choices team takes as the project progress through its various stages.
  
@@ -65,8 +71,8 @@ Primarily, team member in this role will be responsible for all aspects of appli
 
 | Name | Assignment |
 | :-----: | :----------------- |
-| Isaac Silva |  |
-| Mukul Pai |  |
-| Saad Khan |  |
+| Isaac Silva | Software Developer,  Application UI Developer, Documentation Manager, Software Tester|
+| Mukul Pai | Software Developer,  Application UI Developer, Documentation Manager, Software Tester|
+| Saad Khan | Software Developer,  Application UI Developer, Documentation Manager, Software Tester|
 
 
