@@ -138,7 +138,7 @@ This section of the design document highlights the initial user interface design
 
 #### 4.1.2 New Player Creation GUI Scenarios
 
-![New Player Creation GUI Scenarios](snapshots/Login_GUI_Scenario_v2.png)
+![New Player Creation GUI Scenarios](images/Login_GUI_Scenario_v2.png)
 
 #### 4.1.3 Player Profile GUI Scenarios
 
