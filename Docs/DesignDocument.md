@@ -142,7 +142,7 @@ This section of the design document highlights the initial user interface design
 
 #### 4.1.3 Player Profile GUI Scenarios
 
-![New Player Player GUI Scenarios](snapshots/PlayerProfile_GUI_Scenario_v1.png)
+![New Player Player GUI Scenarios](images/PlayerProfile_GUI_Scenario_v1.png)
 
 #### 4.1.4 Create Game GUI Scenarios
 
