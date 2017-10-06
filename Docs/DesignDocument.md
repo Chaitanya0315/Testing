@@ -79,7 +79,7 @@ This section of the design document describes the architectural design for the W
 
 <!-- *This section should provide and describe a diagram that shows the various components and how they are connected. This diagram shows the logical/functional components of the system, where each component represents a cluster of related functionality. In the case of simple systems, where there is a single component, this diagram may be unnecessary; in these cases, simply state so and concisely state why.* -->
 
-![Component Design](<img src="snapshots/CompDesign.png" width=100%/>)
+![Component Design](images/CompDesign.png)
 
 | **No.** | **Component** | **Description** |
 | :---:| :---: | :--- |
@@ -94,7 +94,7 @@ This section of the design document describes the architectural design for the W
 
 <!--*This section should describe how the different components will be deployed on actual hardware devices. Similar to the previous subsection, this diagram may be unnecessary for simple systems; in these cases, simply state so and concisely state why.* -->
 
-![Deployment Design](snapshots/DeployDesign.png)
+![Deployment Design](images/DeployDesign.png)
 
 The Word Scramble game is very simple application as most of the communication takes place between the android device and an external web service. The application itself will reside inside an android device/phone while the external web service utility exists separately. 
 
@@ -108,7 +108,7 @@ This section covers the design of the system components in form of a UML diagram
 
 <!--*In the case of an OO design, the internal structure of a software component would typically be expressed as a UML class diagram that represents the static class structure for the component and their relationships.*-->
 
-![Team Design](snapshots/design_team.png)
+![Team Design](images/design_team.png)
 
 The final UML class diagram is shown above, which is an enhanced/updated version of the individual UML class diagram created by one of the team members.
 
