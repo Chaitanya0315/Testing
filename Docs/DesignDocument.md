@@ -123,7 +123,7 @@ At the time of this deliverable, there are no behavioral or state diagrams that 
 
 ### 4.1 Initial User Interface Design
 
-This section of the design document highlights the initial user interface design for the Word Scramble application. These are prelimnary snapshots and interfaces might change once the final application is implemented.
+This section of the design document highlights the initial user interface design for the Word Scramble application. These are preliminary snapshots and interfaces might change once the final application is implemented.
 
 #### 4.1.1 Login GUI Scenarios
 
@@ -135,7 +135,7 @@ This section of the design document highlights the initial user interface design
 
 #### 4.1.3 Player Profile GUI Scenarios
 
-![New Player Player GUI Scenarios](images/PlayerProfile_GUI_Scenario_v1.png)
+![New Player Profile GUI Scenarios](images/PlayerProfile_GUI_Scenario_v1.png)
 
 #### 4.1.4 Create Game GUI Scenarios
 
