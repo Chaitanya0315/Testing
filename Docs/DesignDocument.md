@@ -133,7 +133,7 @@ This section of the design document highlights the initial user interface design
 
 #### 4.1.1 Login GUI Scenarios
 
-![Login GUI Scenarios](snapshots/Login_GUI_Scenario_v1.png)
+![Login GUI Scenarios](images/Login_GUI_Scenario_v1.png)
 
 
 #### 4.1.2 New Player Creation GUI Scenarios
