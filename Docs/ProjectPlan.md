@@ -33,7 +33,7 @@ a | b | c
 d | e | f
 
 
-| | | |
+
 |-|-|-|
 | Normal Key| Value1 |
 |__BoldKey__| Value2 |
