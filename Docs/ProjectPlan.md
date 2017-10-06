@@ -5,11 +5,6 @@
 
 **Author**:  Team 47 
 
-| Name | GT email ID |
-| :-----: | :----------------- |
-| Isaac Silva | ```isilva6@gatech.edu``` |
-| Mukul Pai | ```mpai8@gatech.edu``` |
-| Saad Khan | ```skhan315@gatech.edu``` |
 
 **Document Tracking**: Following chart is used to log all the changes made to this document.
 
@@ -20,6 +15,8 @@
 ## 1 Introduction
 
 <!--*Here you introduce the product. Keep this  clean and simple, one or two sentences at most.*-->
+
+The purpose of this group project is to create an android application that will give users a platform to play word scramble games, create word scramble games, view various player and scramble statistics as well keep track of their own performance.
 
 ## 2 Process Description
 
@@ -37,3 +34,39 @@
 <!--- *Team members' names*
 - *Roles, with a short description of each role*
 - *Table showing which team member(s) has which role(s)*-->
+
+### Team Members
+
+| Name | GT email ID |
+| :-----: | :----------------- |
+| Isaac Silva | ```isilva6@gatech.edu``` |
+| Mukul Pai | ```mpai8@gatech.edu``` |
+| Saad Khan | ```skhan315@gatech.edu``` |
+
+### Development Team Role Description
+
+**Software Developer**
+
+Taks of the Sofware Developer will be to utilize debugging and problem solving approach in order for developing elemental data structures and working to realize all the use case and design considerations. This team member will contribute to continuously imrove software development strategies and would also coordinate any communication pertaining to the external web service (EWS).
+
+**Application UI Developer**
+ 
+This assignment would require the team member to focus primarily on creating the human computer interaction elements of the word scramble application. In order to accomplish the user experience side of this application, UI developer will help the team create GUI activities and will assist the software developer to make sure that these user interaction elements are synchronized with all their corresponding classes/methods.
+
+**Requirements and Documentation Engineer**
+ 
+Team member in this role will be responsible for maintaining the comprehensive architecture and make sure that the application deisgn attains requirements. For dosumentation purposes, this team member will be responsible for taking information from rest fo the team in order to generate/maintain all the documentation/deliverables pertaining to the project. Person in this role will also keep a track of all the design/choices team takes as the project progress through its various stages.
+ 
+**Software Tester** 
+
+Primarily, team member in this role will be responsible for all aspects of application testing such as unit, integration, etc. As the application development process progresses, software tester will keep a record of all the required test cases and will make sure that subsequent versions of the application are producing the desired results. In the case when a particular test does not pass, the software tester will inform and follow-up with the software developer in order to get that issue resolved. 
+
+### Development Team Role Assignments
+
+| Name | Assignment |
+| :-----: | :----------------- |
+| Isaac Silva |  |
+| Mukul Pai |  |
+| Saad Khan |  |
+
+
