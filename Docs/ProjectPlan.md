@@ -29,7 +29,8 @@ The purpose of this group project is to create an android application that will 
 
 This section illustrates the various activities, team 47 intends to perform throughout the project. These activities are described in terms of the Rational Unified Process (RUP), highlighting all 4 phases that are inception, elaboration, construction, and transition. As per the requirements, each activity will have an entrance and an exit criteria. Each document and component pertaining to software development process will have various review cycles, resulting in more thorough implementaion.
 
-
+a | b | c
+d | e | f
 
 
 
