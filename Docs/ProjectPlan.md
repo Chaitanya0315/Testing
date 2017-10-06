@@ -71,8 +71,8 @@ Primarily, team member in this role will be responsible for all aspects of appli
 
 | Name | Assignment |
 | :-----: | :----------------- |
-| Isaac Silva | Software Developer,  Application UI Developer, Documentation Manager, Software Tester|
-| Mukul Pai | Software Developer,  Application UI Developer, Documentation Manager, Software Tester|
-| Saad Khan | Software Developer,  Application UI Developer, Documentation Manager, Software Tester|
+| Isaac Silva | Software Developer,  Application UI Developer, Documentation Manager|
+| Mukul Pai | Software Developer,  Application UI Developer, Software Tester|
+| Saad Khan | Application UI Developer, Documentation Manager, Software Tester|
 
 
