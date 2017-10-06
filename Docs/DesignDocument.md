@@ -154,7 +154,7 @@ This section of the design document highlights the initial user interface design
 
 #### 4.1.6 Play Game Outcome GUI Scenarios
 
-![Play Game Outcome GUI Scenarios](snapshots/PlayOutcome_GUI_Scenarios_v1.png)
+![Play Game Outcome GUI Scenarios](images/PlayOutcome_GUI_Scenarios_v1.png)
 
 
 
