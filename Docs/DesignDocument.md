@@ -14,7 +14,7 @@
 
 | Version | Date of edit/change | Who made the edit/change | Description of edit/change |
 | :-----: | :-----------------: | :----------------------: | :------------------------: |
-|    v1.0     |    10/04/2017                 |   Team 47                       |           *first draft*                 |
+|    v1.0     |    10/06/2017                 |   Team 47                       |           *first draft*                 |
 
 
 ## 1 Design Considerations
