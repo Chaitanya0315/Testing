@@ -84,8 +84,8 @@ This section of the design document describes the architectural design for the W
 | **No.** | **Component** | **Description** |
 | :---:| :---: | :--- |
 |1. | External Web Service| Provides a way to add new players, report solved games and provide player and game statistics.|
-|2. | User | Allows to create a new player, create a new game, play an existing game and fetch player statistics.|
-|3. | Player Statistics| Helps a particular player to view his/her personal statistics.|
+|2. | User | Allows to create a new player, create a new game, play an existing game and view player statistics.|
+|3. | Player Statistics| Helps a particular player to view other player statistics.|
 |4. | Play Event| Allows an existing user to play a game that already exists in the system.|
 |5. | Game| Provides a way to fetch word scramble statistics and to add a new game.|
 |6. | Scramble Statistics| Helps user view statistics pertaining to a particular word scramble.|
@@ -96,7 +96,7 @@ This section of the design document describes the architectural design for the W
 
 ![Deployment Design](images/DeployDesign.png)
 
-The Word Scramble game is very simple application as most of the communication takes place between the android device and an external web service. The application itself will reside inside an android device/phone while the external web service utility exists separately. 
+The Word Scramble game is a very simple application as most of the communication takes place between the android device and an external web service. The application itself will reside inside an android device/phone while the external web service utility exists separately. 
 
 ## 3 Low-Level Design
 
@@ -110,7 +110,7 @@ This section covers the design of the system components in form of a UML diagram
 
 ![Team Design](images/design_team.png)
 
-The final UML class diagram is shown above, which is an enhanced/updated version of the individual UML class diagram created by one of the team members.
+The final UML class diagram is shown above, which is the team design submitted as part of deliverable 1 and is an enhanced/updated version of the individual UML class diagram created by one of the team members.
 
 ### 3.2 Other Diagrams
 
@@ -128,7 +128,6 @@ This section of the design document highlights the initial user interface design
 #### 4.1.1 Login GUI Scenarios
 
 ![Login GUI Scenarios](images/Login_GUI_Scenario_v1.png)
-
 
 #### 4.1.2 New Player Creation GUI Scenarios
 
@@ -149,6 +148,4 @@ This section of the design document highlights the initial user interface design
 #### 4.1.6 Play Game Outcome GUI Scenarios
 
 ![Play Game Outcome GUI Scenarios](images/PlayOutcome_GUI_Scenarios_v1.png)
-
-
 
