@@ -12,7 +12,7 @@
 
 | Version | Date of edit/change | Who made the edit/change | Description of edit/change |
 | :-----: | :-----------------: | :----------------------: | :------------------------: |
-|    v1.0     |    10/04/2017                 |   Team 47                       |           *first draft*                 |
+|    v1.0     |    10/06/2017                 |   Team 47                       |           *first draft*                 |
 
 
 This document includes the list of non-fictional requirements which were considered important by the team but did not fit the use-case model.
