@@ -56,28 +56,24 @@ This section illustrates the various activities, team 47 intends to perform thro
 
 ### Development Team Role Description
 
-**Software Developer**
+**Software Architect**
 
-Tasks of the Software Developer will be to utilize debugging and problem-solving approach in order for developing elemental data structures and working to realize all the use case and design considerations. This team member will contribute to continuously improve software development strategies and would also coordinate any communication pertaining to the external web service (EWS).
+This team member will make high-level design choices and dictate technical standards, including software coding standards, tools, and platforms. The team member will make high-level design choices much more often than low-level choices. He will utilize debugging and problem-solving approach in order for developing elemental data structures and working to realize all the use case and design considerations. This team member will contribute to continuously improve software development strategies and would also coordinate any communication pertaining to the external web service (EWS).
 
-**Application UI Developer**
- 
-This assignment would require the team member to focus primarily on creating the human computer interaction elements of the word scramble application. In order to accomplish the user experience side of this application, UI developer will help the team create GUI activities and will assist the software developer to make sure that these user interaction elements are synchronized with all their corresponding classes/methods.
+**Product Owner**
 
-**Documentation Manager**
- 
+This member will be main user of the application and will have solid understanding of the requirements and expectations from the project.understanding of users, the market place, the competition and of future trends for the domain or type of system being developed. This member might also assist the software architect to make sure that these user interaction elements are synchronized with all their corresponding classes/methods.
+
+**Project Manager**
+
 Team member in this role will be responsible for maintaining the comprehensive architecture and make sure that the application design attains requirements. For documentation purposes, this team member will be responsible for taking information from rest of the team in order to generate/maintain all the documentation/deliverables pertaining to the project. Person in this role will also keep a track of all the design/choices team takes as the project progress through its various stages.
- 
-**Software Tester** 
-
-Primarily, team member in this role will be responsible for all aspects of application testing such as unit, integration, etc. As the application development process progresses, software tester will keep a record of all the required test cases and will make sure that subsequent versions of the application are producing the desired results. In the case when a particular test does not pass, the software tester will inform and follow-up with the software developer in order to get that issue resolved. 
 
 ### Development Team Role Assignments
 
 | Name | Assignment |
 | :-----: | :----------------- |
-| Isaac Silva | Software Developer,  Application UI Developer, Documentation Manager|
-| Mukul Pai | Software Developer,  Application UI Developer, Software Tester|
-| Saad Khan | Application UI Developer, Documentation Manager, Software Tester|
+| Isaac Silva | Software Architect|
+| Mukul Pai | Product Owner|
+| Saad Khan | Project Manager|
 
 
