@@ -58,7 +58,11 @@ This section illustrates the various activities, team 47 intends to perform thro
 
 **Software Architect**
 
-This team member will make high-level design choices and dictate technical standards, including software coding standards, tools, and platforms. The team member will make high-level design choices much more often than low-level choices. He will utilize debugging and problem-solving approach in order for developing elemental data structures and working to realize all the use case and design considerations. This team member will contribute to continuously improve software development strategies and would also coordinate any communication pertaining to the external web service (EWS).
+This team member will make high-level design choices and dictate technical standards, including software coding standards, tools, and platforms. The team member will make high-level design choices much more often than low-level choices. He will utilize debugging and problem-solving approach in order for developing elemental data structures and working to realize all the use case and design considerations.
+
+**Software Developer**
+
+Tasks of the Software Developer will be to utilize debugging and problem-solving approach in order for developing elemental data structures and working to realize all the use case and design considerations. This team member will contribute to continuously improve software development strategies and would also coordinate any communication pertaining to the external web service (EWS).
 
 **Product Owner**
 
@@ -68,12 +72,17 @@ This member will be main user of the application and will have solid understandi
 
 Team member in this role will be responsible for maintaining the comprehensive architecture and make sure that the application design attains requirements. For documentation purposes, this team member will be responsible for taking information from rest of the team in order to generate/maintain all the documentation/deliverables pertaining to the project. Person in this role will also keep a track of all the design/choices team takes as the project progress through its various stages.
 
+**Software Tester**
+
+Primarily, team member in this role will be responsible for all aspects of application testing such as unit, integration, etc. As the application development process progresses, software tester will keep a record of all the required test cases and will make sure that subsequent versions of the application are producing the desired results. In the case when a particular test does not pass, the software tester will inform and follow-up with the software developer in order to get that issue resolved.
+
+
 ### Development Team Role Assignments
 
 | Name | Assignment |
 | :-----: | :----------------- |
-| Isaac Silva | Software Architect|
-| Mukul Pai | Product Owner|
-| Saad Khan | Project Manager|
+| Isaac Silva | Software Architect, Software Developer|
+| Mukul Pai | Product Owner, Software Tester|
+| Saad Khan | Project Manager, Software Tester|
 
 
