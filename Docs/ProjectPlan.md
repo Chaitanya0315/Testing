@@ -58,7 +58,7 @@ This section illustrates the various activities, team 47 intends to perform thro
 
 **Software Architect**
 
-This team member will make high-level design choices and dictate technical standards, including software coding standards, tools, and platforms. The team member will make high-level design choices much more often than low-level choices. He will utilize debugging and problem-solving approach in order for developing elemental data structures and working to realize all the use case and design considerations.
+This team member will make high-level design choices and dictate technical standards, including software coding standards, tools, and platforms. The team member will make high-level design choices much more often than low-level choices. Software architect may also be engaged in the design of the architecture of the application environment, or may focus entirely on the design methodology of the code.
 
 **Software Developer**
 
@@ -66,7 +66,7 @@ Tasks of the Software Developer will be to utilize debugging and problem-solving
 
 **Product Owner**
 
-This member will be main user of the application and will have solid understanding of the requirements and expectations from the project, understanding of users, the market place, the competition and of future trends for the domain or type of system being developed. This member might also assist the software architect to make sure that these user interaction elements are synchronized with all their corresponding classes/methods.
+This member will be main user of the application and will have solid understanding of the requirements and expectations from the project, understanding of users, the market place, the competition and trends for the domain or type of system being developed. This member might also assist the software architect and software developer to make sure that these user interaction elements are synchronized with all their corresponding classes/methods.
 
 **Project Manager**
 
