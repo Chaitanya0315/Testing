@@ -1,5 +1,4 @@
 # CS6300 SDP Fall 2017 - Group Project
-by Isaac Silva (```isilva6@gatech.edu```), Mukul Pai (```mpai8@gatech.edu```) & Saad Khan (```skhan315@gatech.edu```)
 
 # Word Scramble Game - User Manual
 
