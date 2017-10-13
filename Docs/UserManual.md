@@ -47,9 +47,7 @@ After launching the application using android emulator, you will have one of two
 * If you need to create a new user profile, click **SIGN UP NOW** next to **New User?**
 * For an existing user, enter the username in the test box under **Existing Player** and click **LOGIN**
 
-
 **Figure 1: Application Login page**
-
 
 ![Login](images/Figure1.png)
 
@@ -68,10 +66,23 @@ Once you click on the **SIGN UP NOW** button, application will take you to the C
 
 When all boxes are filled appropriately and you can click on the **REGISTER** button to register as a new user. The application will automatically append random numeric characters at the end of your desired username to keep it unique within the system. You will prompted with message on the screen showing you the username that was created and you will taken back to the application login page with the new username autofilled in the username text and ready to be logged in. This is shown below in Figure 3. 
 
-
 **Figure 3: New Player creation confirmation**
 
 ![Create New Player](images/Figure3.png)
+
+## Existing Player Hompage
+
+In the case when you have an existing profile or have now just created a user profile and have filled in the username on the login page and clicked on the LOGIN button, you will endup on the player homepage and will be greeted with your username. As shown in Figure 4, here you will have 4 options to choose from:
+
+* Create Word Scramble
+* Solve Word Scramble
+* Player Statistics
+* Scramble Statistics
+
+**Figure 4: Player Homepage**
+
+![Player Homepage](images/Figure4.png)
+
 
 ## Using SDPCryptogram
 
