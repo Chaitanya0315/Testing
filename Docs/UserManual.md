@@ -18,7 +18,21 @@
 
 ## Introduction
 
-The Genesys Care Mobile App is intended to help you interact with Genesys more quickly and efficiently. After installing the Mobile App, you will be able to:
+The SDPScramble Mobile Application is intended to help its users an oppotunity to be occupied in their endless free time by offering numerous word scrambles to create, solve and compare their progress with each other. While using the application, you will be able to:
+
+- Create a new user profile
+- Create word scrambles
+- Choose to solve existing scrambles
+- Able to view your and other player statistics
+    -(created scrambles, solved scrambles and avg. performance on scrambles created by others.
+
+
+
+
+Existing users can dive right in and start by creating new word scrambles, choose to solve new scrambles created by others or continue with the ones they had left in-progress during previous sessions. New users can do all this as well by creating a new user profile at the beginning. The application maintains, user profiles with unique usernames along with the scrambles each user created and solved and their performance on solving scrambles created by others. It also maintains scramble records enabling users to view that how many times a paritcular scramble was solved. For every word scramble game, the user will be able to view a scrambled word and will have an input text box below to type in a probable solution and try to solve it. User will can have multiple attempts to solve it, either stopping if they get a correct solution or leaving the game in-progress to have an attempt later on. 
+
+
+After installing the Mobile App, you will be able to:
 
 - Review your open cases, including all public case updates
 - Post updates to your cases
