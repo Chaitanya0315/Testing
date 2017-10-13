@@ -16,6 +16,16 @@
 | :-----: | :-----------------: | :----------------------: | :------------------------: |
 |    v1.0     |    10/13/2017                 |   Team 47                       |           *first draft*                 |
 
+## Introduction
+
+The SDPScramble application gives its users an oppotunity to be occupied in their endless free time by offering numerous word scrambles to create, solve and compare their progress with each other. Existing users can dive right in and start by creating new word scrambles, choose to solve new scrambles created by others or continue with the ones they had left in-progress during previous sessions. New users can do all this as well by creating a new user profile at the beginning. The application maintains, user profiles with unique usernames along with the scrambles each user created and solved and their performance on solving scrambles created by others. It also maintains scramble records enabling users to view that how many times a paritcular scramble was solved. 
+
+A new customer, Axel Roos, has approached you looking for something to occupy himself in his endless free time. After exchanging ideas with his coworker Ole, he has decided that it would be a nice diversion to have an application where they can (1) solve word scrambles, (2) create word scrambles, and (3) compare their progress.  After reviewing your design, he has requested that your team continues to develop this app for the Android OS following a Unified Software Process model.
+Goals
+Develop an Android app that implements the scramble app that Axel envisioned (and that your team already designed).
+Get experience with (a simplified version of) the Unified Software Process.
+
+
 SDPCryptogram is a mobile app that allows players to practice solving cryptograms and compare their scores with others. Cryptograms are alphanumeric phrases in which the alphabetical characters are encrypted by some method, for example by shifting each character by a set number of positions in the alphabet. For each cryptogram, the player is presented with the encrypted phrase and must analyze it in order to try to discover the code and solve the puzzle. Players can submit their solutions unlimited times, but the number of incorrect submissions will be tracked and remain part their player rating along with total number of cryptograms started and solved. Administrators can add new  players to the game and new cryptograms for players to solve at any time..
 
 ## Getting Started
