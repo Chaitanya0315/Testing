@@ -20,11 +20,11 @@
 
 The SDPScramble Mobile Application is intended to help its users an oppotunity to be occupied in their endless free time by offering numerous word scrambles to create, solve and compare their progress with each other. While using the application, you will be able to:
 
-- Create a new user profile
-- Create word scrambles
-- Choose to solve existing scrambles
-- Able to view your and other player statistics
-    -(created scrambles, solved scrambles and avg. performance on scrambles created by others.
+* Create a new user profile
+* Create word scrambles
+* Choose to solve existing scrambles
+* Able to view your and other player statistics
+  * (created scrambles, solved scrambles and avg. performance on scrambles created by others.
 
 
 
