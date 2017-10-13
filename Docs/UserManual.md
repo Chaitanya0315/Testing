@@ -14,7 +14,7 @@
 
 | Version | Date of edit/change | Who made the edit/change | Description of edit/change |
 | :-----: | :-----------------: | :----------------------: | :------------------------: |
-|    v1.0     |    10/13/2017                 |   Team 47                       |           *first draft*                 |
+|    v1.0     |    10/13/2017                 |   Team 47                       |           *Beta Version*                 |
 
 ## Introduction
 
@@ -44,14 +44,18 @@ The SDPScramble application is built in Android Studio with minimum API level se
 
 After launching the application using android emulator, you will have one of two options to move forward. You can either enter a username associated with a user profile that already exists in the system or choose to create a new user profile.
 
-* For an existing user, enter the username in the test box under 'Existing Player' and click 'LOGIN'
 * If you need to create a new user profile, click 'SIGN UP NOW' next to 'New User?'
+* For an existing user, enter the username in the test box under 'Existing Player' and click 'LOGIN'
+
 
 **Figure 1: Application Login**
 
 
 ![Login](images/Figure1.png)
 
+## Create New Player
+
+![Create New Player](images/Figure2.png)
 
 ## Using SDPCryptogram
 
