@@ -48,14 +48,30 @@ After launching the application using android emulator, you will have one of two
 * For an existing user, enter the username in the test box under 'Existing Player' and click 'LOGIN'
 
 
-**Figure 1: Application Login**
+**Figure 1: Application Login page**
 
 
 ![Login](images/Figure1.png)
 
 ## Create New Player
 
+Once you click on the 'SIGN UP NOW' button, application will take you to the Create New Player page. Here you will be able to create a new playuer by providing the following:
+
+* First name
+* Last name
+* Valid email address
+* Desired username
+
+When all boxes are filled appropriately and you click on the 'REGISTER' button
+
+**Figure 2: New Player creation page**
+
 ![Create New Player](images/Figure2.png)
+
+
+**Figure 2: New Player creation confirmation**
+
+![Create New Player](images/Figure3.png)
 
 ## Using SDPCryptogram
 
