@@ -44,7 +44,10 @@ The SDPScramble application is built in Android Studio with minimum API level se
 
 After launching the application using android emulator, you will be will have one of two options to move forward. You can either enter a username associated with a user profile that already exists in the game or choose to create a new user profile.
 
-![Deployment Design](images/Figure1.png)
+**Figure 1: Application Login**
+
+
+![Login](images/Figure1.png)
 
 
 ## Using SDPCryptogram
