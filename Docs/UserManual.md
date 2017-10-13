@@ -42,7 +42,7 @@ The SDPScramble application is built in Android Studio with minimum API level se
 
 ## Application Login
 
-After launching the application using android emulator, you will have one of two options to move forward. You can either enter a username associated with a user profile that already exists in the system or choose to create a new user profile.
+After launching the application using android emulator, you will have one of two options to move forward. You can either enter a username associated with a user profile that already exists in the system or choose to create a new user profile as shown in Figure 1.
 
 * If you need to create a new user profile, click 'SIGN UP NOW' next to 'New User?'
 * For an existing user, enter the username in the test box under 'Existing Player' and click 'LOGIN'
@@ -55,21 +55,21 @@ After launching the application using android emulator, you will have one of two
 
 ## Create New Player
 
-Once you click on the 'SIGN UP NOW' button, application will take you to the Create New Player page. Here you will be able to create a new playuer by providing the following:
+Once you click on the 'SIGN UP NOW' button, application will take you to the Create New Player page as shown in Figure 2. Here you will be able to create a new playuer by providing the following:
 
 * First name
 * Last name
 * Valid email address
 * Desired username
 
-When all boxes are filled appropriately and you click on the 'REGISTER' button
-
 **Figure 2: New Player creation page**
 
 ![Create New Player](images/Figure2.png)
 
+When all boxes are filled appropriately and you can click on the 'REGISTER' button to register as a new user. The application will automatically append random numeric characters at the end of your desired username to keep it unique within the system. You will prompted with message on the screen showing you the username that was created and you will taken back to the application login page with the new username autofilled in the username text and ready to be logged in. This is shown below in Figure 3. 
 
-**Figure 2: New Player creation confirmation**
+
+**Figure 3: New Player creation confirmation**
 
 ![Create New Player](images/Figure3.png)
 
