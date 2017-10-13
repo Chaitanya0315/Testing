@@ -36,11 +36,16 @@ The SDPScramble Mobile Application is intended to help its users an oppotunity t
 
 The SDPScramble application gives its users an oppotunity to be occupied in their endless free time by offering numerous word scrambles to create, solve and compare their progress with each other. Existing users can dive right in and start by creating new word scrambles, choose to solve new scrambles created by others or continue with the ones they had left in-progress during previous sessions. New users can do all this as well by creating a new user profile at the beginning. The application maintains, user profiles with unique usernames along with the scrambles each user created and solved and their performance on solving scrambles created by others. It also maintains scramble records enabling users to view that how many times a paritcular scramble was solved. For every word scramble game, the user will be able to view a scrambled word and will have an input text box below to type in a probable solution and try to solve it. User will can have multiple attempts to solve it, either stopping if they get a correct solution or leaving the game in-progress to have an attempt later on.
 
-## Getting Started
+## Running SDPScramble
 
-SDPCryptogram can be built and run on an android emulator via Android Studio. The Genymotion emulator plugin for Android Studio is recommended for better performance.
+The SDPScramble application is built in Android Studio with minimum API level set at 19 and maximum set at 26. To run the application, simply run the android emulator from within Android Studio.
 
-The minimum API level is 19 and the maximum is 25.
+## Application Login
+
+After launching the application using android emulator, you will be will have one of two options to move forward. You can either enter a username associated with a user profile that already exists in the game or choose to create a new user profile.
+
+
+
 
 ## Using SDPCryptogram
 
