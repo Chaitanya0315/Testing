@@ -70,7 +70,7 @@ When all boxes are filled appropriately and you can click on the **REGISTER** bu
 
 ![Create New Player](images/Figure3.png)
 
-## Existing Player Hompage
+## Existing Player Homepage
 
 In the case when you have an existing profile or have now just created a user profile and have filled in the username on the login page and clicked on the LOGIN button, you will endup on the player homepage and will be greeted with your username. As shown in Figure 4, here you will have 4 options to choose from:
 
@@ -82,6 +82,21 @@ In the case when you have an existing profile or have now just created a user pr
 **Figure 4: Player Homepage**
 
 ![Player Homepage](images/Figure4.png)
+
+## Creating a Word Scramble
+
+If you choose to create a word scramble, you will be taken to the 'Create a Word Scramble' page. Here you will have 2 text boxes to put in the following information:
+
+* Unscrambled Word/Phrase
+* Clue for this unscrambled word/phrase
+
+Once you are done filling these text boxes, you can click on the button that says 'SCRAMBLE!!!'. This would scramble the word/phrase for you. You can choose to re-click this button as many times as you wish and once you are satisifed with the scrambled word/phrase you can then choose to accept it by click on the 'ACCEPT' button. This would save the scramble showing you the unique ID systems has assigned to it. This screen is shown below in Figure 5.
+
+**Figure 5: Scramble creation**
+
+![Player Homepage](images/Figure5.png)
+
+**NOTE:** As of now, the beta version only includes functionality up until here. Final version will cover the saving of the scramble.
 
 
 ## Using SDPCryptogram
