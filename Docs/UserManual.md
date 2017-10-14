@@ -142,12 +142,14 @@ Last option on the player homepage is for viewing scramble statistics by clickin
 ## Maneuvering around the Application
 
 Moving back from a particular screen is intuitive and can be done in multiple ways when you are at a pariticular scree. You can either use the conventional method by clicking the standard back arrow <|
-
+```
 function onNavBtnTap() {
     // This code will be called only in Android.
     console.log("Navigation button tapped!");
 }
 exports.onNavBtnTap = onNavBtnTap;
+
+```
 
 Navigation in SDPCryptogram is intended to be intuitive and buttons easy to understand and use. The standard Android **Back** button can be used to navigate to previous screens when no explicit button is provided for navigation. Furthermore, the "three dot" menu symbol at the top right of every screen can be touched to display a **logout** option that will take the user back to the login page to allow switching between users.
 
