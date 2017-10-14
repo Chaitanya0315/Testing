@@ -14,7 +14,7 @@
 
 | Version | Date of edit/change | Who made the edit/change | Description of edit/change |
 | :-----: | :-----------------: | :----------------------: | :------------------------: |
-|    v1.0     |    10/13/2017                 |   Team 47                       |           *Beta Version*                 |
+|    v1.0     |    10/13/2017                 |   Team 47                       |           *for the Beta Version*                 |
 
 ## Introduction
 
@@ -97,6 +97,15 @@ Once you are done filling these text boxes, you can click on the button that say
 ![Player Homepage](images/Figure5.png)
 
 **NOTE:** As of now, the beta version only includes functionality up until here. Final version will cover the saving of the scramble.
+
+## Solve a Word Scramble
+
+In order for you to solve an already created scramble, you can click the "Solve Word sCramble" button on the player homepage screen in Figure 4. This will take you to the scramble list screen as shown in Figure 6. Here you can choose the scramble you wish to solve. Once you have chosen the game by selecting the associated radio button, you can simply click the "PLAY NOW!"
+
+**Figure 5: Scramble list**
+
+![Scramble List](images/Figure6.png)
+
 
 
 ## Using SDPCryptogram
