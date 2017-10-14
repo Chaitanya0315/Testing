@@ -108,15 +108,19 @@ In order for you to solve an already created scramble, you can click the 'Solve 
 
 After clicking **PLAY NOW!**, you will be able to view the 'Solve a Word Scramble' screen as shown in Figure 7. Here you can enter a probable solution to the scrambled word/phrase and attempt to sovle it infinite no. of times. Here you will 2 options once you have filled in the solution, either to submit it by clicking the **SUBMIT** button or save your progress up until that point by clicking the **SAVE** button.
 
-
 **Figure 7: Solving a Scramble**
 
 ![Solve a Scramble](images/Figure7.png)
 
 **NOTE:** As of now, the beta version only includes functionality up until this point. Final version will cover the submittting or saving the scramble.
 
+## Viewing Player Statistics
 
+The 3rd option on the player homepage is for viewing player statistics by clicking the **PLAYER STATISTICS** button as shwon in Figure 4.
 
+**Figure 8: Player Statistics**
+
+![Player Statistics](images/Figure8.png)
 
 ## Using SDPCryptogram
 
