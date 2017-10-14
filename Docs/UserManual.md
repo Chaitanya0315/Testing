@@ -100,13 +100,18 @@ Once you are done filling these text boxes, you can click on the button that say
 
 ## Solve a Word Scramble
 
-In order for you to solve an already created scramble, you can click the "Solve Word Scramble" button on the player homepage screen in Figure 4. This will take you to the scramble list screen as shown in Figure 6. Here you can choose the scramble you wish to solve. Once you have chosen the game by selecting the associated radio button, you can simply click the **PLAY NOW!**
+In order for you to solve an already created scramble, you can click the 'Solve Word Scramble' button on the player homepage screen in Figure 4. This will take you to the scramble list screen as shown in Figure 6. Here you can choose the scramble you wish to solve. Once you have chosen the game by selecting the associated radio button, you can simply click the **PLAY NOW!** button to go play a game.
 
-**Figure 5: Scramble list**
+**Figure 6: Scramble list**
 
 ![Scramble List](images/Figure6.png)
 
+After clicking **PLAY NOW!**, you will be able to view the 'Solve a Word Scramble' screen as shown in Figure 7. Here you can enter a probable solution to the scrambled word/phrase and attempt to sovle it infinite no. of times.
 
+
+**Figure 7: Solve a Scramble**
+
+![Solve a Scramble](images/Figure7.png)
 
 ## Using SDPCryptogram
 
