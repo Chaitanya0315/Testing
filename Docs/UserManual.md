@@ -72,7 +72,7 @@ When all boxes are filled appropriately and you can click on the **REGISTER** bu
 
 ## Existing Player Homepage
 
-In the case when you have an existing profile or have now just created a user profile and have filled in the username on the login page and clicked on the LOGIN button, you will endup on the player homepage and will be greeted with your username. As shown in Figure 4, here you will have 4 options to choose from:
+In the case when you have an existing profile or have now just created a user profile and have filled in the username on the login page and clicked on the **LOGIN** button, you will endup on the player homepage and will be greeted with your username. As shown in Figure 4, here you will have 4 options to choose from:
 
 * Create Word Scramble
 * Solve Word Scramble
@@ -90,7 +90,7 @@ If you choose to create a word scramble, you will be taken to the 'Create a Word
 * Unscrambled Word/Phrase
 * Clue for this unscrambled word/phrase
 
-Once you are done filling these text boxes, you can click on the button that says 'SCRAMBLE!!!'. This would scramble the word/phrase for you. You can choose to re-click this button as many times as you wish and once you are satisifed with the scrambled word/phrase you can then choose to accept it by click on the 'ACCEPT' button. This would save the scramble showing you the unique ID systems has assigned to it. This screen is shown below in Figure 5.
+Once you are done filling these text boxes, you can click on the button that says **SCRAMBLE!!!**. This would scramble the word/phrase for you. You can choose to re-click this button as many times as you wish and once you are satisifed with the scrambled word/phrase you can then choose to accept it by click on the **ACCEPT** button. This would save the scramble showing you the unique ID systems has assigned to it. This screen is shown below in Figure 5.
 
 **Figure 5: Scramble creation**
 
@@ -100,7 +100,7 @@ Once you are done filling these text boxes, you can click on the button that say
 
 ## Solve a Word Scramble
 
-In order for you to solve an already created scramble, you can click the "Solve Word sCramble" button on the player homepage screen in Figure 4. This will take you to the scramble list screen as shown in Figure 6. Here you can choose the scramble you wish to solve. Once you have chosen the game by selecting the associated radio button, you can simply click the "PLAY NOW!"
+In order for you to solve an already created scramble, you can click the "Solve Word Scramble" button on the player homepage screen in Figure 4. This will take you to the scramble list screen as shown in Figure 6. Here you can choose the scramble you wish to solve. Once you have chosen the game by selecting the associated radio button, you can simply click the **PLAY NOW!**
 
 **Figure 5: Scramble list**
 
