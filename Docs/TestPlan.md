@@ -15,8 +15,8 @@
 
 | Version | Date of edit/change | Who made the edit/change | Description of edit/change |
 | :-----: | :-----------------: | :----------------------: | :------------------------: |
-|    v1.0     |    10/06/2017                 |   Team 47                       |           *first draft*                 |
-|    v2.0     |    10/13/2017                 |   Team 47                       |           *few test cases form the Test Plan were tried and status was updated in this document*                 |
+|    v1.0     |    10/06/2017                 |   Team 47                       |           *First draft*                 |
+|    v2.0     |    10/13/2017                 |   Team 47                       |           *Few test cases from the Test Plan were tried and status was updated in this document. An additional test was also added to this document.*                 |
 
 ## 1 Testing Strategy
 
@@ -82,4 +82,4 @@ Testing technologies that the team intends to use while developing the word scra
 |17.|Player logs out|Player logs out of account|Player is able to exit the game||Not Covered|To test that a player successfully exits the game|
 |18.|Player goes back to the Login page|Player clicks the 'Back to Login Page' to move from palyer profile activity back to the login activity|Player is able to go back to the login page||Not Covered|To test that a player can successfully go to the login page from the player profile page|
 |19.|Player goes back to the player profile page|Player clicks the 'Back to Player Profile' to move from scramble statistics activity, player statistics activity, create word scramble activity or solve the scramble activity back to the player profile activity|Player is able to go back to the player profile||Not Covered|To test that a player can successfully go to the player profile page from scramble statistics activity, player statistics activity, create word scramble activity or solve the scramble activity|
-
+|20.|Player is unable to connect due to lack of internet/WiFi connectivity|Player clicks any button to move around the application|Player is unable to connect and use any functionality in the application|||To test that a player unsuccessful to move navigate around the application due to lack of internet/WiFi connectivity|
