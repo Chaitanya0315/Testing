@@ -29,7 +29,7 @@ The SDPScramble Mobile Application is intended to help its users an oppotunity t
   * No. of scrambles solved
   * Avg. no. of times a scramble created by you is solved by others
 * Able to view your and Scrambles statistics
-  * How many times was a particular scramble was solved
+  * How many times was a particular scramble solved
   * Are you a creator or a solver of a particular scramble
 
 
@@ -116,11 +116,29 @@ After clicking **PLAY NOW!**, you will be able to view the 'Solve a Word Scrambl
 
 ## Viewing Player Statistics
 
-The 3rd option on the player homepage is for viewing player statistics by clicking the **PLAYER STATISTICS** button as shwon in Figure 4.
+The 3rd option on the player homepage is for viewing player statistics by clicking the **PLAYER STATISTICS** button as shown in Figure 4. As shown in Figure 8, on this screen, you will be able to view the following statistics pertaining to each user:
+
+* No. of scrambles created by a player
+* No. of scrambles solved by a player
+* Avg. no. of times a scramble created by a player is solved by others
 
 **Figure 8: Player Statistics**
 
 ![Player Statistics](images/Figure8.png)
+
+## Viewing Scramble Statistics
+
+Last option on the player homepage is for viewing scramble statistics by clicking the **SCRAMBLE STATISTICS** button as shown in Figure 4. As shown in Figure 9, on this screen, you will be able to view the following statistics pertaining to each scramble created:
+
+* How many times was a particular scramble solved
+* Are you a creator or a solver of a particular scramble
+
+**Figure 9: Scramble Statistics**
+
+![Scramble Statistics](images/Figure9.png)
+
+
+
 
 ## Using SDPCryptogram
 
