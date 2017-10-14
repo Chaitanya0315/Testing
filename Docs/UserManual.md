@@ -18,7 +18,7 @@
 
 ## Introduction
 
-The SDPScramble Mobile Application is intended to help its users an oppotunity to be occupied in their endless free time by offering numerous word scrambles to create, solve and compare their progress with each other. While using the application, you will be able to:
+The SDPScramble Mobile Application is intended to help its users an opportunity to be occupied in their endless free time by offering numerous word scrambles to create, solve and compare their progress with each other. While using the application, you will be able to:
 
 * Create a new user profile
 * Create word scrambles
@@ -49,7 +49,7 @@ After launching the application using android emulator, you will have one of two
 
 ## Create New Player
 
-Once you click on the **SIGN UP NOW** button, application will take you to the Create New Player page as shown in Figure 2. Here you will be able to create a new playuer by providing the following:
+Once you click on the **SIGN UP NOW** button, application will take you to the Create New Player page as shown in Figure 2. Here you will be able to create a new player by providing the following:
 
 * First name
 * Last name
@@ -68,7 +68,7 @@ When all boxes are filled appropriately and you can click on the **REGISTER** bu
 
 ## Existing Player Homepage
 
-In the case when you have an existing profile or have now just created a user profile and have filled in the username on the login page and clicked on the **LOGIN** button, you will endup on the player homepage and will be greeted with your username. As shown in Figure 4, here you will have 4 options to choose from:
+In the case when you have an existing profile or have now just created a user profile and have filled in the username on the login page and clicked on the **LOGIN** button, you will end up on the player homepage and will be greeted with your username. As shown in Figure 4, here you will have 4 options to choose from:
 
 * Create Word Scramble
 * Solve Word Scramble
@@ -86,7 +86,7 @@ If you choose to create a word scramble, you will be taken to the 'Create a Word
 * Unscrambled Word/Phrase
 * Clue for this unscrambled word/phrase
 
-Once you are done filling these text boxes, you can click on the button that says **SCRAMBLE!!!**. This would scramble the word/phrase for you. You can choose to re-click this button as many times as you wish and once you are satisifed with the scrambled word/phrase you can then choose to accept it by click on the **ACCEPT** button. This would save the scramble showing you the unique ID systems has assigned to it. This screen is shown below in Figure 5.
+Once you are done filling these text boxes, you can click on the button that says **SCRAMBLE!!!**. This would scramble the word/phrase for you. You can choose to re-click this button as many times as you wish and once you are satisfied with the scrambled word/phrase you can then choose to accept it by click on the **ACCEPT** button. This would save the scramble showing you the unique ID systems has assigned to it. This screen is shown below in Figure 5.
 
 **Figure 5: Scramble creation**
 
@@ -102,13 +102,13 @@ In order for you to solve an already created scramble, you can click the 'Solve 
 
 ![Scramble List](images/Figure6.png)
 
-After clicking **PLAY NOW!**, you will be able to view the 'Solve a Word Scramble' screen as shown in Figure 7. Here you can enter a probable solution to the scrambled word/phrase and attempt to sovle it infinite no. of times. Here you will 2 options once you have filled in the solution, either to submit it by clicking the **SUBMIT** button or save your progress up until that point by clicking the **SAVE** button.
+After clicking **PLAY NOW!**, you will be able to view the 'Solve a Word Scramble' screen as shown in Figure 7. Here you can enter a probable solution to the scrambled word/phrase and attempt to solve it infinite no. of times. Here you will 2 options once you have filled in the solution, either to submit it by clicking the **SUBMIT** button or save your progress up until that point by clicking the **SAVE** button.
 
 **Figure 7: Solving a Scramble**
 
 ![Solve a Scramble](images/Figure7.png)
 
-**NOTE:** As of now, the beta version only includes functionality up until this point. Final version will cover the submittting or saving the scramble.
+**NOTE:** As of now, the beta version only includes functionality up until this point. Final version will cover the submitting or saving the scramble.
 
 ## Viewing Player Statistics
 
@@ -137,7 +137,7 @@ Last option on the player homepage is for viewing scramble statistics by clickin
 
 ## Maneuvering around the Application
 
-Moving back from a particular screen is intuitive and can be done in multiple ways when you are at a pariticular scree. You can either use the conventional method by clicking the standard back arrow on the android phone or you can click on the magenta colored back options provided on each application screen such as **LOGOUT** on the homepage screen, **BACK TO HOME** on the 'Create a Word Scramble', 'Solve a Scramble', 'Player Statistics' and the 'Scramble Statistics' screens and the **BACK TO SCRAMBLE LIST** while on the screen where you are solving a scramble.
+Moving back from a particular screen is intuitive and can be done in multiple ways when you are at a particular screen. You can either use the conventional method by clicking the standard back arrow on the android phone or you can click on the magenta colored back options provided on each application screen such as **LOGOUT** on the homepage screen, **BACK TO HOME** on the 'Create a Word Scramble', 'Solve a Scramble', 'Player Statistics' and the 'Scramble Statistics' screens and the **BACK TO SCRAMBLE LIST** while on the screen where you are solving a scramble.
 
 
 ## Contact US
