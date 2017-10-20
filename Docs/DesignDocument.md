@@ -23,12 +23,12 @@
 
 <!-- *The subsections below describe the issues that need to be addressed or resolved prior to or while completing the design, as well as issues that may influence the design process.* -->
 
-This section contains all of the assumptions, system dependencies and constraints that were considered during the design of each subsystem and component of the word scramble application.
+This section contains all of the assumptions, system dependencies and constraints that were considered during the design of each subsystem and component of the Word Scramble application.
 
 ### 1.1 Assumptions
 <!-- *Describe any assumption, background, or dependencies of the software, its use, the operational environment, or significant project issues.* -->
 
-This section enumerates all the assumptions that will impact the word scramble application design.
+This section enumerates all the assumptions that impacted the Word Scramble application design.
 
 | **No.** | **Description** |
 | :---: | :--- |
@@ -37,13 +37,12 @@ This section enumerates all the assumptions that will impact the word scramble a
 |3. | The intention of the application development team is that all the deliverables pertaining to development of the application will be distributed in an appropriate and prompt way.|
 |4. | It is also intended that the test plan will account for all the various functionalities pertaining to the word scramble application.|
 |5. | Private team GitHub repository assigned by Georgia Tech will be used to handle version control for the group project.|
-|6. | It is assumed that once a player has successfully logged in and wishes to initiate a particular game instance using the association class "PlayEvent", the game instance will have one of 4 stages for a player: RUNNING :- The time from which the solution letters are entered in the solution text box till the time submit button is clicked. In the case where the solution is incorrect, the game will remain in the running stage as neither a correct solution has been entered yet nor the player has saved their progress. IN-PROGRESS :- When a player saves without submitting a solution, the game stays in this stage to keep record of any game that is in progress for that player. SUBMITTED :- In the case where the player clicks the submit button, the game moves to this state and will have two options to choose from, either move to the complete state (described below) or stay in the running state as the solution is incorrect up until that point. COMPLETE :- When the solution letters submitted are for a correct solution, the state changes to complete, highlighting that a particular player has solved the scramble.    |  
-|7. | To start with, the application will be provided along with at least one initial user credential which will be considered as a demo user. |
-|8. | Username required for logging into or for creating a new player profile shall only contain alphabets and/or numerical characters. The username will also be case sensitive.|
-|9. |The game will be able to accept infinite number of word scrambles associated with a particular player. |
-|10. |A valid word scramble will be the one where each alphabet must be replaced at its position. None of the letters in the phrase should be left unscrambled.|
-|11. |The application will allow a player to save word scrambles with same solution but have different clues.|
-|12. | The application will use a flat text based approach to take user input for the original phrase, solution phrase and the clue.| 
+|6. | To start the application, the user will have to create a new player profile in order to access the game. This can be done by providing initial user credentials, first naem, last name, email address and a desired user id.|
+|7. | Username required for logging into or for creating a new player profile shall only contain alphabets and/or numerical characters and EWS will append to random numbers in order to preserve uniqueness.|
+|8. |The game will be able to accept infinite number of scrambles associated with a particular player. |
+|9. |A valid word scramble will be the one where each alphabet must be replaced at its position. None of the letters in the phrase should be left unscrambled.|
+|10. |The application will allow a player to save scrambles with same unscrambled phrase but may have different clues. These will be treated as separate scrambles|
+|11. | The application will use a flat text based approach to take user input for the original phrase, solution phrase and the clue.| 
 
 
 
@@ -53,7 +52,7 @@ This section enumerates all the assumptions that will impact the word scramble a
 
 | **No.** | **Description** |
 | :---: | :--- |
-|1. |Word Scramble application will be programmed using Android Studio version 2.2.|
+|1. |Scramble application will be programmed using Android Studio version 2.2.|
 |2. |If programming outside of Android Studio is necessary, IntelliJ Idea IDE with Java version 1.8 will be used where required.|
 |3. |Team will try to deliver the project within the allotted time period.|
 |4. |Huge amounts of data shall not be stored on the application (android phone).|
@@ -65,16 +64,16 @@ This section enumerates all the assumptions that will impact the word scramble a
 
 | **No.** | **Description** |
 | :---: | :--- |
-|1. |Word Scramble application will be created with a minimum targeted sdk version of 19, i.e. application will be operational under API level 19.|
+|1. |Scramble application will be created with a minimum targeted sdk version of 19, i.e. application will be operational under API level 19.|
 |2. |Fully working application should be able to run at default screen resolutions on standard android phones.|
-|3. |At software testing level, application will be tested on Nexus 5 API 24 (Android 7.0, API 24) or similar Android Emulator.|
+|3. |At software testing level, application will be tested on Nexus 4 API 26 (Android 8.0, API 26) or similar Android Emulator.|
 
 
 ## 2 Architectural Design
 
 <!-- *The architecture provides the high-level design view of a system and provides a basis for more detailed design work. These subsections describe the top-level components of the system you are building and their relationships.* -->
 
-This section of the design document describes the architectural design for the Word Scramble application and intends to briefly explain the details of the design and the design process.
+This section of the design document describes the architectural design for the Scramble application and intends to briefly explain the details of the design and the design process.
 
 ### 2.1 Component Diagram
 
@@ -88,8 +87,8 @@ This section of the design document describes the architectural design for the W
 |2. | User | Allows to create a new player, create a new game, play an existing game and view player statistics.|
 |3. | Player Statistics| Helps a particular player to view other player statistics.|
 |4. | Play Event| Allows an existing user to play a game that already exists in the system.|
-|5. | Game| Provides a way to fetch word scramble statistics and to add a new game.|
-|6. | Scramble Statistics| Helps user view statistics pertaining to a particular word scramble.|
+|5. | Game| Provides a way to fetch scramble statistics and to add a new game.|
+|6. | Scramble Statistics| Helps user view statistics pertaining to a particular scramble.|
 
 ### 2.2 Deployment Diagram
 
@@ -97,7 +96,7 @@ This section of the design document describes the architectural design for the W
 
 ![Deployment Design](images/DeployDesign.png)
 
-The Word Scramble game is a very simple application as most of the communication takes place between the android device and an external web service. The application itself will reside inside an android device/phone while the external web service utility exists separately. 
+The Scramble game is a very simple application as most of the communication takes place between the android device and an external web service. The application itself will reside inside an android device/phone while the external web service utility exists separately. 
 
 ## 3 Low-Level Design
 
@@ -111,7 +110,7 @@ This section covers the design of the system components in form of a UML diagram
 
 ![Team Design](images/design_team.png)
 
-The final UML class diagram is shown above, which is the team design submitted as part of deliverable 1 and is an enhanced/updated version of the individual UML class diagram created by one of the team members.
+The final UML class diagram is shown above, which is an enhanced version of team design submitted as part of deliverable 1 and is based on the individual UML class diagram created by one of the team members.
 
 ### 3.2 Other Diagrams
 
@@ -122,9 +121,9 @@ At the time of this deliverable, there are no behavioral or state diagrams that 
 ## 4 User Interface Design
 <!--*For GUI-based systems, this section should provide the specific format/layout of the user interface of the system (e.g., in the form of graphical mockups).*-->
 
-### 4.1 Initial User Interface Design
+### 4.1 Final User Interface Design
 
-This section of the design document highlights the initial user interface design for the Word Scramble application. These are preliminary snapshots and interfaces might change once the final application is implemented.
+This section of the design document highlights the final user interface design for the Scramble application. These are snapshots from the final implementation of the application.
 
 #### 4.1.1 Login GUI Scenarios
 
