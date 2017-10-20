@@ -11,7 +11,7 @@
 | Version | Date of edit/change | Who made the edit/change | Description of edit/change |
 | :-----: | :-----------------: | :----------------------: | :------------------------: |
 |    v1.0     |    10/06/2017                 |   Team 47                       |           *first draft*                 |
-|    v1.1     |    10/20/2017                 |   Team 47                       |           *based on better understanding of the system*                 |
+|    v1.1     |    10/20/2017                 |   Team 47                       |           *based on better understanding of the system.*                 |
 
 ## 1 Introduction
 
