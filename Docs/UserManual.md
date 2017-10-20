@@ -15,6 +15,7 @@
 | Version | Date of edit/change | Who made the edit/change | Description of edit/change |
 | :-----: | :-----------------: | :----------------------: | :------------------------: |
 |    v1.0     |    10/13/2017                 |   Team 47                       |           *for the Beta Version*                 |
+|    v1.1     |    10/20/2017                 |   Team 47                       |           *for the Final Version*                 |
 
 ## Introduction
 
