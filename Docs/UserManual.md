@@ -1,6 +1,6 @@
 # CS6300 SDP Fall 2017 - Group Project
 
-# Word Scramble Game - User Manual
+# Scramble Game - User Manual
 
 **Author**:  Team 47 
 
@@ -80,9 +80,9 @@ In the case when you have an existing profile or have now just created a user pr
 
 ![Player Homepage](images/Figure4.png)
 
-## Creating a Word Scramble
+## Creating a  Scramble
 
-If you choose to create a word scramble, you will be taken to the 'Create a Word Scramble' page. Here you will have 2 text boxes to put in the following information:
+If you choose to create scramble, you will be taken to the 'Create Scramble' page. Here you will have 2 text boxes to put in the following information:
 
 * Unscrambled Word/Phrase
 * Clue for this unscrambled word/phrase
@@ -95,15 +95,15 @@ Once you are done filling these text boxes, you can click on the button that say
 
 **NOTE:** As of now, the beta version only includes functionality up until here. Final version will cover the saving a scramble after creation.
 
-## Solve a Word Scramble
+## Solve a Scramble
 
-In order for you to solve an already created scramble, you can click the 'Solve Word Scramble' button on the player homepage screen in Figure 4. This will take you to the scramble list screen as shown in Figure 6. Here you can choose the scramble you wish to solve. Once you have chosen the game by selecting the associated radio button, you can simply click the **PLAY NOW!** button to go play a game.
+In order for you to solve an already created scramble, you can click the 'Solve Scramble' button on the player homepage screen in Figure 4. This will take you to the scramble list screen as shown in Figure 6. Here you can choose the scramble you wish to solve. Once you have chosen the game by selecting the associated radio button, you can simply click the **PLAY NOW!** button to go play a game.
 
 **Figure 6: Scramble list**
 
 ![Scramble List](images/Figure6.png)
 
-After clicking **PLAY NOW!**, you will be able to view the 'Solve a Word Scramble' screen as shown in Figure 7. Here you can enter a probable solution to the scrambled word/phrase and attempt to solve it infinite no. of times. Here you will 2 options once you have filled in the solution, either to submit it by clicking the **SUBMIT** button or save your progress up until that point by clicking the **SAVE** button.
+After clicking **PLAY NOW!**, you will be able to view the 'Solve Scramble' screen as shown in Figure 7. Here you can enter a probable solution to the scrambled word/phrase and attempt to solve it infinite no. of times. Here you will 2 options once you have filled in the solution, either to submit it by clicking the **SUBMIT** button or save your progress up until that point by clicking the **SAVE** button.
 
 **Figure 7: Solving a Scramble**
 
