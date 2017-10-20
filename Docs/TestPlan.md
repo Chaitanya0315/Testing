@@ -16,7 +16,8 @@
 | Version | Date of edit/change | Who made the edit/change | Description of edit/change |
 | :-----: | :-----------------: | :----------------------: | :------------------------: |
 |    v1.0     |    10/06/2017                 |   Team 47                       |           *First draft*                 |
-|    v2.0     |    10/13/2017                 |   Team 47                       |           *Few test cases from the Test Plan were tried and status was updated in this document. An additional test was also added to this document.*                 |
+|    v1.1     |    10/13/2017                 |   Team 47                       |           *Few test cases from the Test Plan were tried and status was updated in this document. An additional test was also added to this document.*                 |
+|    v1.2     |    10/20/2017                 |   Team 47                       |           *Final test plan*                 |
 
 ## 1 Testing Strategy
 
