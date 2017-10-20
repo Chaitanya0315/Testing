@@ -14,7 +14,7 @@
 **Document Tracking**: Following chart is used to log all the changes made to this document.
 
 | Version | Date of edit/change | Who made the edit/change | Description of edit/change |
-| :-----: | :-----------------: | :----------------------: | :------------------------: |
+| :-----: | :-----------------: | :----------------------: | :------------------------ |
 |    v1.0     |    10/06/2017                 |   Team 47                       |           *First draft*                 |
 |    v1.1     |    10/13/2017                 |   Team 47                       |           *Few test cases from the Test Plan were tried and status was updated in this document. An additional test was also added to this document.*                 |
 |    v1.2     |    10/20/2017                 |   Team 47                       |           *Final test plan*                 |
@@ -50,7 +50,7 @@ To check if the test cases created by the team are adequate, the team will try t
 
 <!--*Describe how bugs and enhancement requests will be tracked.*-->
 
-In order to track bugs, code changes and progress during the development phase, team has decided to use Bugzilla. It is an open-source, effective "Bug-Tracking System" that will allow the team to keep track of outstanding bugs pertaining to the word scramble application. Team has chosen Bugzilla due to its ease of usage, however, if the team feels that another bug tracking tool is more appropriate, team will switch to that tool and this document will be updated subsequently.
+In order to track bugs, code changes and progress during the development phase, team has decided to use Bugzilla. It is an open-source, effective "Bug-Tracking System" that will allow the team to keep track of outstanding bugs pertaining to the word scramble application. Team has chosen Bugzilla due to its ease of usage, however, if the team feels that another bug tracking tool is more appropriate, team will switch to that tool and this document will be updated subsequently. For this purpose, the application software developer foudn it more convenient to utilize the capabilities of the Android Studio internal debugger so the team decided to stick with this approach. Android Studio internal debugger provided quick and easy way to test the application for bugs while the application was being run via the emulator. This way the team was able to resolve the bugs in the code in a quick fashion rather than relying on external bug-tracking system.
 
 ### 1.5 Technology
 
