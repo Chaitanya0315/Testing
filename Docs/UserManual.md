@@ -71,8 +71,8 @@ When all boxes are filled appropriately and you can click on the **REGISTER** bu
 
 In the case when you have an existing profile or have now just created a user profile and have filled in the username on the login page and clicked on the **LOGIN** button, you will end up on the player homepage and will be greeted with your username. As shown in Figure 4, here you will have 4 options to choose from:
 
-* Create Word Scramble
-* Solve Word Scramble
+* Create Scramble
+* Solve Scramble
 * Player Statistics
 * Scramble Statistics
 
