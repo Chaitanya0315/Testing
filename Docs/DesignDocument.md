@@ -13,7 +13,7 @@
 **Document Tracking**: Following chart is used to log all the changes made to this document.
 
 | Version | Date of edit/change | Who made the edit/change | Description of edit/change |
-| :-----: | :-----------------: | :----------------------: | :------------------------: |
+| :-----: | :-----------------: | :----------------------: | :------------------------ |
 |    v1.0     |    10/06/2017                 |   Team 47                       |           *first draft*                 |
 |    v1.1     |    10/13/2017                 |   Team 47                       |           *second draft*                 |
 |    v1.2     |    10/20/2017                 |   Team 47                       |           *Updating the UML Team Design after after better understanding of the system design*                 |
