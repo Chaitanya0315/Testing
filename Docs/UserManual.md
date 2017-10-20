@@ -111,7 +111,7 @@ After clicking **PLAY NOW!**, you will be able to view the 'Solve Scramble' scre
 
 **NOTE:** As of now, the beta version only includes functionality up until this point. Final version will cover the submitting or saving the scramble.
 
-## Viewing Player Statistics
+## Viewing Player Statistics 
 
 The 3rd option on the player homepage is for viewing player statistics by clicking the **PLAYER STATISTICS** button as shown in Figure 4. As shown in Figure 8, on this screen, you will be able to view the following statistics pertaining to each user:
 
