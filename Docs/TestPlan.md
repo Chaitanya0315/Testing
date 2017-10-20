@@ -37,7 +37,7 @@ The process of creating test scenarios will be a team effort as each member will
 
 <!--*Here you should discuss how you are going to select your test cases, that is, which black-box and/or white-box techniques you will use. If you plan to use different techniques at different testing levels (e.g., unit and system), you should clarify that.*-->
 
-Primarily, test cases will be extracted from the use cases and junit/esspresso tests will be utilized in order to make sure that chunks of code are generating the desired output. The tests will be selected in a way that they cover wide spectrum of component functionality. This way, if an error is identified, team will be able to focus on that particular error and precise chunk of code causing this error to occur. At the time of creation, this document includes all the possible tests, the team could think of. As the application implementation process progresses, team might add/modify these tests.
+Primarily, test cases will be extracted from the use cases in order to make sure that chunks of code are generating the desired output. The tests will be selected in a way that they cover wide spectrum of component functionality. This way, if an error is identified, team will be able to focus on that particular error and precise chunk of code causing this error to occur. At the time of creation, this document includes all the possible tests, the team could think of. As the application implementation process progresses, team might add/modify these tests.
 
 ### 1.3 Adequacy Criterion
 
@@ -56,7 +56,9 @@ In order to track bugs, code changes and progress during the development phase, 
 
 <!--*Describe any testing technology you intend to use or build (e.g., JUnit, Selenium).*-->
 
-Testing technologies that the team intends to use while developing the word scramble application are JUnit and Espresso. Team feels more accustomed with the testing frame work of JUnit and also the fact that it is precisely designed to be used with Java is an added factor. For automated UI tests the Espresso UI test framework will utilized in Android Studio. However, during the development process if the team feels that another testing tool is more appropriate, team will switch on to that technology and this document will be updated accordingly.  
+Testing technologies that the team intended to use while developing the word scramble application were JUnit and Espresso. Team felt more accustomed with the testing frame work of JUnit and also the fact that it is precisely designed to be used with Java is an added factor. For automated UI tests the Espresso UI test framework was to be utilized in Android Studio. However, during the development process if the team feels that another testing tool is more appropriate, team will switch on to that technology and this document will be updated accordingly. For this purpose, most of the testing performed was manual with all 2 team members takign turns in rigorously testing all the different aspects of the final application. With all the eleventh hour changes beign made to realize the application, the team felt it was more appropriate to test different features of the application manually. This is in accordance with the requirements for deliverable 4 and each test case description clearly mentions on how to reproduce it and adequately covers all the different functionalities of the application.
+
+
 
 ## 2 Test Cases
 
