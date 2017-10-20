@@ -107,7 +107,7 @@ After clicking **PLAY NOW!**, you will be able to view the 'Solve Scramble' scre
 
 **Figure 7: Solving a Scramble**
 
-![Solve a Scramble](images/Figure7.png)
+![Solve a Scramble](images/Figure17.png)
 
 **NOTE:** As of now, the beta version only includes functionality up until this point. Final version will cover the submitting or saving the scramble.
 
