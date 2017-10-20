@@ -15,6 +15,7 @@
 | Version | Date of edit/change | Who made the edit/change | Description of edit/change |
 | :-----: | :-----------------: | :----------------------: | :------------------------: |
 |    v1.0     |    10/06/2017                 |   Team 47                       |           *first draft*                 |
+|    v1.1     |    10/13/2017                 |   Team 47                       |           *second draft*                 |
 
 
 ## 1 Design Considerations
@@ -147,4 +148,8 @@ This section of the design document highlights the initial user interface design
 #### 4.1.6 Play Game Outcome GUI Scenarios
 
 ![Play Game Outcome GUI Scenarios](images/PlayOutcome_GUI_Scenarios_v1.png)
+
+## 5 Local Persistent Store
+
+The Word Scramble game will require a local persistent store in order to store the game and user sessions. In order to accomplish that, Android's SQlite database will be used. In addition, an Object Relational Mapping (ORM) library might be deployed in order to seamlessly map the application's data model, described under the 3.1 section, into SQL.
 
