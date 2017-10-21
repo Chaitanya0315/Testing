@@ -46,7 +46,7 @@ After launching the application using android emulator, you will have one of two
 
 **Figure 1: Application Login page**
 
-![Login](images/Figure1.png)
+![Login](images/Manual1.png)
 
 ## Create New Player
 
@@ -59,13 +59,13 @@ Once you click on the **SIGN UP NOW** button, application will take you to the C
 
 **Figure 2: New Player creation page**
 
-![Create New Player](images/Figure2.png)
+![Create New Player](images/Manual2.png)
 
 When all boxes are filled appropriately and you can click on the **REGISTER** button to register as a new user. The application will automatically append random numeric characters at the end of your desired username to keep it unique within the system. You will prompted with message on the screen showing you the username that was created and you will taken back to the application login page with the new username autofilled in the username text and ready to be logged in. This is shown below in Figure 3. 
 
 **Figure 3: New Player creation confirmation**
 
-![Create New Player](images/Figure3.png)
+![Create New Player](images/Manual3.png)
 
 ## Existing Player Homepage
 
@@ -78,7 +78,7 @@ In the case when you have an existing profile or have now just created a user pr
 
 **Figure 4: Player Homepage**
 
-![Player Homepage](images/Figure4.png)
+![Player Homepage](images/Manual4.png)
 
 ## Creating a  Scramble
 
@@ -91,9 +91,8 @@ Once you are done filling these text boxes, you can click on the button that say
 
 **Figure 5: Scramble creation**
 
-![Player Homepage](images/Figure5.png)
+![Player Homepage](images/Manual5.png)
 
-**NOTE:** As of now, the beta version only includes functionality up until here. Final version will cover the saving a scramble after creation.
 
 ## Solve a Scramble
 
@@ -101,15 +100,15 @@ In order for you to solve an already created scramble, you can click the 'Solve 
 
 **Figure 6: Scramble list**
 
-![Scramble List](images/Figure6.png)
+![Scramble List](images/Manual6.png)
 
 After clicking **PLAY NOW!**, you will be able to view the 'Solve Scramble' screen as shown in Figure 7. Here you can enter a probable solution to the scrambled word/phrase and attempt to solve it infinite no. of times. Here you will 2 options once you have filled in the solution, either to submit it by clicking the **SUBMIT** button or save your progress up until that point by clicking the **SAVE** button.
 
 **Figure 7: Solving a Scramble**
 
-![Solve a Scramble](images/Figure17.png)
+![Solve a Scramble](images/Manual7.png)
 
-**NOTE:** As of now, the beta version only includes functionality up until this point. Final version will cover the submitting or saving the scramble.
+
 
 ## Viewing Player Statistics 
 
@@ -121,7 +120,7 @@ The 3rd option on the player homepage is for viewing player statistics by clicki
 
 **Figure 8: Player Statistics**
 
-![Player Statistics](images/Figure8.png)
+![Player Statistics](images/Manual8.png)
 
 ## Viewing Scramble Statistics
 
@@ -132,9 +131,8 @@ Last option on the player homepage is for viewing scramble statistics by clickin
 
 **Figure 9: Scramble Statistics**
 
-![Scramble Statistics](images/Figure9.png)
+![Scramble Statistics](images/Manual9.png)
 
-**NOTE:** As of now, the beta version only includes functionality up until here. Final version will cover the viewing of all scramble statistics.
 
 ## Maneuvering around the Application
 
