@@ -135,23 +135,19 @@ This section of the design document highlights the final user interface design f
 
 #### 4.1.2 New Player Creation GUI Scenarios
 
-![New Player Creation GUI Scenarios](images/Login_GUI_Scenario_v2.png)
+![New Player Creation GUI Scenarios](images/Design2.png)
 
 #### 4.1.3 Player Profile GUI Scenarios
 
-![New Player Profile GUI Scenarios](images/PlayerProfile_GUI_Scenario_v1.png)
+![New Player Profile GUI Scenarios](images/Design3.png)
 
 #### 4.1.4 Create Game GUI Scenarios
 
-![Create Game GUI Scenarios](images/CreateGame_GUI_Scenario_v1.png)
+![Create Game GUI Scenarios](images/Design4.png)
 
 #### 4.1.5 Play Game GUI Scenarios
 
-![Play Game GUI Scenarios](images/PlayEvent_GUI_Scenarios_v1.png)
-
-#### 4.1.6 Play Game Outcome GUI Scenarios
-
-![Play Game Outcome GUI Scenarios](images/PlayOutcome_GUI_Scenarios_v1.png)
+![Play Game Outcome GUI Scenarios](images/Design5.png)
 
 ## 5 Local Persistent Store
 
