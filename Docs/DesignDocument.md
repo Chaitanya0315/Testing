@@ -44,6 +44,7 @@ This section enumerates all the assumptions that impacted the Word Scramble appl
 |10. |The application will allow a player to save scrambles with same unscrambled phrase but may have different clues. These will be treated as separate scrambles|
 |11. | The application will use a flat text based approach to take user input for the original phrase, solution phrase and the clue.|
 |12. | It is assumed that a user can only create a profile with valid email address and also that whenever a user creates a profile he/she uses a unique email address.|
+|13. | It is assumed that there is no extra space at the end of the phrase when creating a scramble or solving a scramble.|
 
 
 
