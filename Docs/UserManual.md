@@ -102,7 +102,7 @@ In order for you to solve an already created scramble, you can click the 'Solve 
 
 ![Scramble List](images/Manual6.png)
 
-After clicking **PLAY NOW!**, you will be able to view the 'Solve Scramble' screen as shown in Figure 7. Here you can enter a probable solution to the scrambled word/phrase and attempt to solve it infinite no. of times. Here you will 2 options once you have filled in the solution, either to submit it by clicking the **SUBMIT** button or save your progress up until that point by clicking the **SAVE** button.
+After clicking on the scramble you choose to solve, you will be able to view the 'Solve Scramble' screen as shown in Figure 7. Here you can enter a probable solution to the scrambled word/phrase and attempt to solve it infinite no. of times. Here you will 2 options once you have filled in the solution, either to submit it by clicking the **SUBMIT** button or save your progress up until that point by clicking the **SAVE** button.
 
 **Figure 7: Solving a Scramble**
 
