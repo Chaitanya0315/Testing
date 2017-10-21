@@ -96,7 +96,7 @@ Once you are done filling these text boxes, you can click on the button that say
 
 ## Solve a Scramble
 
-In order for you to solve an already created scramble, you can click the 'Solve Scramble' button on the player homepage screen in Figure 4. This will take you to the scramble list screen as shown in Figure 6. Here you can choose the scramble you wish to solve. Once you have chosen the game by selecting the associated radio button, you can simply click the **PLAY NOW!** button to go play a game.
+In order for you to solve an already created scramble, you can click the 'Solve Scramble' button on the player homepage screen in Figure 4. This will take you to the scramble list screen as shown in Figure 6. Here you can choose the scramble you wish to solve by cicking on it.
 
 **Figure 6: Scramble list**
 
