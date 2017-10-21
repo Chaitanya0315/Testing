@@ -37,12 +37,15 @@ This section enumerates all the assumptions that impacted the Word Scramble appl
 |3. | The intention of the application development team is that all the deliverables pertaining to development of the application will be distributed in an appropriate and prompt way.|
 |4. | It is also intended that the test plan will account for all the various functionalities pertaining to the word scramble application.|
 |5. | Private team GitHub repository assigned by Georgia Tech will be used to handle version control for the group project.|
-|6. | To start the application, the user will have to create a new player profile in order to access the game. This can be done by providing initial user credentials, first naem, last name, email address and a desired user id.|
+|6. | To start the application, the user will have to create a new player profile in order to access the game. This can be done by providing initial user credentials, first name, last name, email address and a desired user id.|
 |7. | Username required for logging into or for creating a new player profile shall only contain alphabets and/or numerical characters and EWS will append to random numbers in order to preserve uniqueness.|
 |8. |The game will be able to accept infinite number of scrambles associated with a particular player. |
 |9. |A valid word scramble will be the one where each alphabet must be replaced at its position. None of the letters in the phrase should be left unscrambled.|
 |10. |The application will allow a player to save scrambles with same unscrambled phrase but may have different clues. These will be treated as separate scrambles|
-|11. | The application will use a flat text based approach to take user input for the original phrase, solution phrase and the clue.| 
+|11. | The application will use a flat text based approach to take user input for the original phrase, solution phrase and the clue.|
+|12. | It is assumed that a user can only create a profile with valid email address and also that whenever a user creates a profile he/she uses a unique email address.|
+
+
 
 
 
