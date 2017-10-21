@@ -127,7 +127,7 @@ At the time of this deliverable, there are no behavioral or state diagrams that 
 
 ### 4.1 Final User Interface Design
 
-This section of the design document highlights the final user interface design for the Scramble application. These are snapshots from the final implementation of the application.
+This section of the design document highlights the final user interface design for the Scramble application.
 
 #### 4.1.1 Login GUI Scenarios
 
