@@ -131,7 +131,7 @@ This section of the design document highlights the final user interface design f
 
 #### 4.1.1 Login GUI Scenarios
 
-![Login GUI Scenarios](images/Login_GUI_Scenario_v1.png)
+![Login GUI Scenarios](images/Design1.png)
 
 #### 4.1.2 New Player Creation GUI Scenarios
 
